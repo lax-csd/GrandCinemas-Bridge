@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="GrandCinemasPrintBridge1/GrandCinemasPrintBridge1.csproj" Id="aef0cbca-8669-4c53-98c6-f4126bd7d71f">
+    <Platform Solution="Release|x64" Project="x64" />
+  </Project>
+</Solution>
